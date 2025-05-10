@@ -1,0 +1,28 @@
+
+---
+
+### **requirements.txt**
+
+```text
+# Core Packages
+selenium==4.9.1
+beautifulsoup4==4.12.2
+pandas==2.0.3
+numpy==1.24.3
+
+# Visualization
+matplotlib==3.7.1
+seaborn==0.12.2
+plotly==5.14.1
+
+# Web Driver
+webdriver-manager==3.8.6
+
+# Jupyter
+jupyter==1.0.0
+ipykernel==6.23.1
+
+# Additional Utilities
+tqdm==4.65.0
+lxml==4.9.2
+python-dotenv==1.0.0  # For proxy/secret management
